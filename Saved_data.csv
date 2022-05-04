@@ -3,3 +3,5 @@ add x1,x3,x4
 add x6,x6,c4
 add x,v,n
 add s,f,g
+add x,v,b
+add x,b,m
